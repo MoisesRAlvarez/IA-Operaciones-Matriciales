@@ -13,7 +13,6 @@ def main():
         [0.1, 0.9, 0.1],  # Doc 1: "Las mejores fragancias de diseñador con notas cítricas"
         [0.7, 0.2, 0.3],  # Doc 2: "Uso de Python y Docker para flujos de trabajo"
         [0.0, 0.8, 0.2]   # Doc 3: "Proyección y longevidad en perfumes de lujo"
-    ])
     
     # 2. vector de búsqueda (Query)
     # Vector q 3x1 que Representa la búsqueda: "Quiero aprender a programar IA"

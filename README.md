@@ -17,5 +17,4 @@ La lógica matemática detrás del buscador es la siguiente:
 
 ## 📦 Instalación y Uso
 1. ```bash
-   git clone [https://github.com/polancox999-glitch/Examen-Final-Proyecto-Pkmon-.git clone https://github.com/polancox999-glitch/Examen-Final-Proyecto-Pkmon-.git
-   git clone https://github.com/MoisesRAlvarez/Examen-Final-Proyecto-Pkmon-.git
+   git clone https://github.com/MoisesRAlvarez/IA-Operaciones-Matriciales.git 
