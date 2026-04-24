@@ -1,6 +1,6 @@
 # Aplicación de Operaciones Matriciales en IA: Buscador Semántico
 
-Este proyecto forma parte de la asignatura de Álgebra Lineal en el **Instituto Tecnológico de las Américas (ITLA)**. Consiste en una demostración práctica de cómo las operaciones matriciales son fundamentales en el Procesamiento de Lenguaje Natural (NLP).
+Este proyecto es una practica que decidi desarollar para tener un ejemplo claro, Consiste en una demostración práctica de cómo las operaciones matriciales son fundamentales en el Procesamiento de Lenguaje Natural (NLP).
 
 ## 📝 Descripción del Proyecto
 El proyecto explora el concepto de **Word Embeddings**, donde las palabras o documentos se transforman en vectores numéricos dentro de un espacio n-dimensional. La aplicación práctica utiliza la **multiplicación de matrices (Producto Punto)** para calcular la similitud entre una consulta (query) y una base de datos de documentos.
